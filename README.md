@@ -152,6 +152,7 @@ Key pages:
 - [WhatsApp setup](https://wacrm.tech/docs/whatsapp-setup)
 - [Environment variables](https://wacrm.tech/docs/environment-variables)
 - [Deploy on Hostinger](https://wacrm.tech/docs/deployment-hostinger)
+- [Deploy on Vercel (Hobby)](./docs/deployment-vercel.md)
 - [Architecture](https://wacrm.tech/docs/architecture)
 - [Troubleshooting](https://wacrm.tech/docs/troubleshooting)
 
